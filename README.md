@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Developer.
 - 🌱 I’m currently learning Java With DSA and nodeJS for backend
 - 💞️ I’m looking to collaborate on backend project
-- 📫 My Personal email id is maitysusanta822@gmail.com
+- 📫 My Personal email id is maitysusanta2003@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: life is more about learning...
 
